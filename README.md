@@ -6,7 +6,7 @@ I'm a developer passionate about leveraging my skills in AI, ML and front-end de
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-imran-1b3605246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-imran-1b3605246/)
 
 # 💻 Tech Stack:
 
