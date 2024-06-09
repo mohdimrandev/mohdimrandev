@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I'm a developer passionate about leveraging my skills in AI, ML and front-end development to develop solutions for real-world challenges.
+I'm a developer passionate about leveraging my skills in AI, ML and front-end development to develop solutions for real-world problems.
 
 ## 🌐 Connect with me:
 
